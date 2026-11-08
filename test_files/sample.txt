@@ -1,0 +1,2 @@
+Đây là file thử nghiệm của bài Midterm.
+Chạy hoàn toàn trên Terminal Ubuntu!

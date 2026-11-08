@@ -1,0 +1,10 @@
+# Compiled binary
+file_manager
+
+# Object files
+*.o
+
+# Temporary and backup files
+*~
+*.swp
+.DS_Store

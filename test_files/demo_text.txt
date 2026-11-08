@@ -1,0 +1,4 @@
+Báo cáo môn học: Hệ điều hành Linux
+Họ và tên sinh viên: Nguyễn Thanh Nhân
+Nội dung: Trình quản lý tập tin dòng lệnh viết bằng ngôn ngữ C.
+Hỗ trợ quản lý cây thư mục, sao chép, di chuyển và trích xuất tài liệu.
